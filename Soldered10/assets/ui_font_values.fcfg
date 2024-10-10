@@ -1,0 +1,16 @@
+{
+  "codename": "values",
+  "ttf_path": "\\assets\\AGENCYR.TTF",
+  "bin_path": "\\assets\\ui_font_values.bin",
+  "c_path": "\\assets\\ui_font_values.c",
+  "cfg_path": "\\assets\\ui_font_values.fcfg",
+  "size": 100,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

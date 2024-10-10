@@ -1,0 +1,16 @@
+{
+  "codename": "small",
+  "ttf_path": "\\assets\\AGENCYB.TTF",
+  "bin_path": "\\assets\\ui_font_small.bin",
+  "c_path": "\\assets\\ui_font_small.c",
+  "cfg_path": "\\assets\\ui_font_small.fcfg",
+  "size": 24,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

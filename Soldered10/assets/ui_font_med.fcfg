@@ -1,0 +1,16 @@
+{
+  "codename": "med",
+  "ttf_path": "\\assets\\AGENCYB.TTF",
+  "bin_path": "\\assets\\ui_font_med.bin",
+  "c_path": "\\assets\\ui_font_med.c",
+  "cfg_path": "\\assets\\ui_font_med.fcfg",
+  "size": 30,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
